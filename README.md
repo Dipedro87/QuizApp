@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # QuizApp
 
-Aplicação de conceitos básicos de uma aplicação em Flutter em um aplicativo de perguntas e respostas, contendo pontuação baseado nas respostas dadas.
+Aplicação de conceitos básicos de uma aplicação em Flutter em um aplicativo de perguntas e respostas, contendo pontuação baseada nas respostas dadas.
